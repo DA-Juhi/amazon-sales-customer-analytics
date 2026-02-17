@@ -34,7 +34,8 @@ It focuses on understanding what drives revenue, how discounts and ratings impac
 ##  Tools & Tech
 
 - **SQL (MySQL):** Aggregations, joins, CTEs, stored procedures, views  
-- **Power BI:** Sales and customer dashboards    
+- **Power BI:** Sales and customer dashboards
+- **Excel:** Data cleaning   
 - **Canva:** Final project visuals and case-study-style presentation
 
 ---
